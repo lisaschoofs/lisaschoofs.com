@@ -3,5 +3,29 @@ body {
 }
 
 .jumbotron {
-  /*background-color: #D4AFB9;*/
+  margin-top: 100px;
+  text-align: center;
 }
+
+img {
+  height: 40%;
+  width: 40%;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+/*.fa-facebook {
+    background: #3B5998;
+    color: white;
+}*/
