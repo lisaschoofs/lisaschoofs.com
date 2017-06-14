@@ -21,6 +21,13 @@ img {
     border-radius: 50%;
 }
 
+.fa2 {
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+}
+
 .fa1 {
       padding: 30px;
 }
@@ -33,11 +40,11 @@ img {
 }
 
 #smaller {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 #evensmaller {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 #footer {
